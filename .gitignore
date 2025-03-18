@@ -478,3 +478,8 @@ $RECYCLE.BIN/
 *.lnk
 infra/prod-k8s/prod-secrets.yml
 infra/prod-k8s/le-issuer-staging.yml
+
+# vs code
+.vscode/*
+src/AuctionService/appsettings.Development.json
+docker-compose.yml
