@@ -9,10 +9,10 @@ using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 
 #nullable disable
 
-namespace AuctionService.Data.Migrations
+namespace AuctionService.Migrations
 {
     [DbContext(typeof(AuctionDbContext))]
-    [Migration("20250306142653_InitialCreate")]
+    [Migration("20250402142201_InitialCreate")]
     partial class InitialCreate
     {
         /// <inheritdoc />
