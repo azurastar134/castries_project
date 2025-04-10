@@ -20,7 +20,7 @@ try
 {
     DbInitializer.InitDb(app);
 }
-catch (System.Exception ex)
+catch (Exception ex)
 {
     Console.WriteLine(ex);
 }

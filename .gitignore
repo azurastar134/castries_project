@@ -483,3 +483,4 @@ infra/prod-k8s/le-issuer-staging.yml
 .vscode/*
 src/AuctionService/appsettings.Development.json
 docker-compose.yml
+appsettings.Development.json
